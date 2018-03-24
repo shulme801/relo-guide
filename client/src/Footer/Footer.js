@@ -5,7 +5,7 @@ const footer = (props) => {
     return (
     <div>
         <footer className="page-footer">
-          © 2018 Sawyer, Gomez, Hulme, Johnson, and Ashe
+          © 2018 Sawyer, Gomez, Hulme, and Ashe
         </footer>
     </div>
     )
